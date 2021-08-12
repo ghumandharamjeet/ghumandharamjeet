@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ghumandharamjeet
-- 👀 I’m interested in working as an Android developer and putting my creativity and knowledge in daily work
-- 🌱 I’m currently learning Unit Testing
 - 📫 Reach me at dharamjeetat18@gmail.com
 
 <!---
